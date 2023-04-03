@@ -41,8 +41,11 @@ Como você irá separar o TPV dos comercianes antigos daqueles afeados pelo expe
   - Em vista das outras cidades no mesmo período de tempo? 
 
 
-## Dados Analisados - Dashboard
+## Dados Analisados
 
+Os dados recebidos para esse estudo e as intruções se encontram na pasta [in](/in/), caso você tennha interesse em realizar esse estudo.
+
+### Dashboard
 
 ## Ferramentas Utilizadas
 
