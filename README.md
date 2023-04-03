@@ -1,7 +1,7 @@
 # Experimento Neptune
 Case proposto para testar as habilidades de análises de dados no ramo de adquirência.
 
-## Contexto
+## [Contexto](https://github.com/mathara/Adquirencia_SUP/blob/d55682ce68845bfa4d9983ed38aa8c3d7eaaf27c/in/Experiment%20Case%20-%20Setup.pdf)
 
 A marca SUP lançou o experimento na cidade de Neptune, no dia 17/05/21.
 O experimneto aplica uma nova proposta de valor e devemos avaliar os impactos nos principais KPIs.
