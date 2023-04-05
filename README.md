@@ -15,6 +15,7 @@ O experimento consiste em dar uma alta taxa de desconto se o **comerciante**(nos
 - Aumento da média do TPV devido aos novos comerciantes em Neptune ( i.e. se darmos um alto desconto para clientes com um TPV grande, 
 nós iremos atrair mais deles e o nosso TPV médio em Neptune, será maior).
 
+<!--
 ### Observações
 
 *TPV:* é o volume total de vendas(em R$) no qual o comerciante usa a maquinhinha SUP.
@@ -24,6 +25,7 @@ nós iremos atrair mais deles e o nosso TPV médio em Neptune, será maior).
 *Nível de TPV:* os comerciantes tem diferentes níveis de TPV ao longo da vida, sendo as primeiras 
 semanas após a data de compra( i.e. sale date), normalmente, as que apresentam os menores níveis de
 TPV.
+-->
 
 **Desafio:** Os comerciantes que já possuem um relacionamento conosco não será afetado pelas novas taxas.
 Como você irá separar o TPV dos comercianes antigos daqueles afeados pelo experimento?
@@ -45,7 +47,21 @@ Como você irá separar o TPV dos comercianes antigos daqueles afeados pelo expe
 
 Os dados recebidos para esse estudo e as intruções se encontram na pasta [in](/in/), caso você tennha interesse em realizar esse estudo.
 
+### Estrutura de dados no PowerBI
+![Estrutura Relacionamento das Tabelas](bau/Estrutura.PNG)
+
+
+Aprofudando um pouco na estrutura, podemos ver algumas separações:
+- Tabelas Principais
+  - *Merchant:* compra de máquina por cliente
+  - *TPV:* transacional de pagamento
+- Tabela Auxiliar
+  - *Merchant_Cad:* Cadastro único do Comerciante
+- Medidas
+
 ### Dashboard
+![Painel de Campanha](bau/SUP_video.gif)
+Acesse aqui o [Dashboard](https://bit.ly/MMA_CampanhaNeptune).
 
 ## Ferramentas Utilizadas
 
@@ -55,3 +71,5 @@ Os dados recebidos para esse estudo e as intruções se encontram na pasta [in](
 - Think-cell [lincense 60 trial](https://www.think-cell.com/en/product/firmlearning?utm_campaign=firmlearning-22-1483-1&utm_source=firmlearning&utm_medium=youtube&utm_content=&utm_id=firmlearning-22-1483)
 
 ## Resultados
+
+Material de consulta [Apresentação Executiva Final](out_resultado/Case_Neptune.pdf).
