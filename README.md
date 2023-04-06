@@ -71,5 +71,20 @@ Acesse aqui o [Dashboard](https://bit.ly/MMA_CampanhaNeptune).
 - Think-cell [lincense 60 trial](https://www.think-cell.com/en/product/firmlearning?utm_campaign=firmlearning-22-1483-1&utm_source=firmlearning&utm_medium=youtube&utm_content=&utm_id=firmlearning-22-1483)
 
 ## Resultados
+![Painel de Campanha](bau/SUP_CE_video.gif)
+
+A campanha em Neptune foi um sucesso, devido:
+- Crescimento médio de clientes ativos e transacionando de 670% e 563%,
+respectivamente, após a campanha. Objetivo: Diminuir a
+diferença entre clientes ativos e transacionando
+- Crescimento de vendas de máquinas e novos clientes de 280% e 222%,
+respectivamente, em relação a média das demais cidades, sem o foco da
+campanha
+- O público alvo desta campanha chegou a representar 55,3% do TPV Total na
+semana. Devemos acompanhar a recorrência e o churn semanalmente
+- O público alvo aumentou, em média, 46% do TPV médio geral. À medida que
+perdemos esse público, a média geral tende a se aproximar daquela fora da
+campanha
+
 
 Material de consulta [Apresentação Executiva Final](out_resultado/Case_Neptune.pdf).
